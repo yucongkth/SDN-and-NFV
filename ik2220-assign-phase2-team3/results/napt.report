@@ -1,0 +1,19 @@
+
+	=================== NAPT Report ===================
+	Input Packet Rate (pps): 0.513712263038
+	Output Packet Rate(pps): 0.388732886803
+	Total # of input packets: 441
+	Total # of output packets: 329
+	Total # of IP packets: 297
+	Total # of ARP requests packets: 96
+	Total # of ARP respondes packets: 17
+	Total # of IP requests packets: 286
+	Total # of ICMP packets: 11
+	Total # of dropped packets: 31
+	ARP Query packet from Prz: 6
+	ARP QUERY packet from Dmz: 90
+	ARP QUERY packet from Prz after Responder: 6
+	ARP QUERY packet from Dmz after Responder: 8
+	ICMP packets from Dmz:4
+	ICMP packets from Prz:7
+	================================================== 

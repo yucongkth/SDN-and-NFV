@@ -1,0 +1,26 @@
+
+=================== IDS Report ===================
+Input Packet rate (pps):   	0.816507532645
+Output Packet rate (pps):  	0.969295307695
+Blocked Packet rate (pps):	0.321457272971
+
+INPUT IP packets:             408
+Total # of input packets:  	701
+
+Total # of allowed packets:	398
+
+Total HTTP packet:				124
+# of SQL DROP:				        122
+# of SQL PASS :					2
+# of HTTP POST:					2
+# of HTTP GET DROP:				60
+# of HTTP HEAD DROP:				30
+# of HTTP OPTIONS DROP:				30
+# of HTTP TRACE DROP:				0
+# of HTTP DELETE DROP:				32
+# of HTTP CONNECT DROP:				29
+# of OUTPUT TO NET:				122
+
+
+
+==================================================
